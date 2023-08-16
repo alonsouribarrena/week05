@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#container{
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+}
+
+header{
+  width: 90%;
+  margin: auto;
+}
+
+#output_gif{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
