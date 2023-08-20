@@ -1,0 +1,551 @@
+{
+  "data": [
+    {
+      "id": "850571371",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Demon Days",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": [
+          "Alternative",
+          "Music",
+          "Pop",
+          "Hip-Hop/Rap",
+          "Alternative Rap",
+          "Rap",
+          "Rock",
+          "Adult Alternative",
+          "Underground Rap"
+        ],
+        "trackNumber": 6,
+        "releaseDate": "2005-05-09",
+        "durationInMillis": 221173,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBAYE1400422",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "cbcfd2",
+          "textColor2": "cad69b",
+          "textColor4": "a1af82",
+          "textColor1": "fefeff",
+          "bgColor": "001621",
+          "hasP3": false
+        },
+        "composerName": "David Jolicoeur, Brian Burton, Damon Albarn & Jamie Hewlett",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "850571371",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/feel-good-inc/850571319?i=850571371",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": [
+          "lossless",
+          "lossy-stereo"
+        ],
+        "name": "Feel Good Inc.",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/25/70/98/257098c7-c3b4-2387-a66c-b1bd5e4961e6/mzaf_2962582253260055441.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gorillaz"
+      }
+    },
+    {
+      "id": "850576665",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Gorillaz",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": [
+          "Alternative",
+          "Music",
+          "Pop"
+        ],
+        "trackNumber": 5,
+        "releaseDate": "2001-03-05",
+        "durationInMillis": 342560,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBAYE1400468",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "363837",
+          "textColor2": "172b18",
+          "textColor4": "455546",
+          "textColor1": "040705",
+          "bgColor": "ffffff",
+          "hasP3": false
+        },
+        "composerName": "Damon Albarn & Teren Jones",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "850576665",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/clint-eastwood/850576570?i=850576665",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": [
+          "lossless",
+          "lossy-stereo"
+        ],
+        "name": "Clint Eastwood",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/90/22/95/902295fa-d5e5-4ea9-dfd6-26a5417d42b0/mzaf_13068135983766007631.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gorillaz",
+        "contentRating": "explicit"
+      }
+    },
+    {
+      "id": "850571388",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Demon Days",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": [
+          "Alternative",
+          "Music",
+          "Pop",
+          "Hip-Hop/Rap",
+          "Alternative Rap",
+          "Rap",
+          "Rock",
+          "Adult Alternative",
+          "Underground Rap"
+        ],
+        "trackNumber": 12,
+        "releaseDate": "2005-05-11",
+        "durationInMillis": 244307,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBAYE1400428",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "cbcfd2",
+          "textColor2": "cad69b",
+          "textColor4": "a1af82",
+          "textColor1": "fefeff",
+          "bgColor": "001621",
+          "hasP3": false
+        },
+        "composerName": "Damon Albarn, Jamie Hewlett & Brian Burton",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/dare/850571319?i=850571388",
+        "playParams": {
+          "id": "850571388",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": [
+          "lossless",
+          "lossy-stereo"
+        ],
+        "name": "Dare",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/6d/13/67/6d1367b4-bcdf-dfc8-fa98-1efc68d0c5f2/mzaf_16133727010415638257.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gorillaz"
+      }
+    },
+    {
+      "id": "859844939",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Plastic Beach",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": [
+          "Pop",
+          "Music",
+          "Hip-Hop/Rap",
+          "Alternative Rap",
+          "Underground Rap",
+          "Rock",
+          "Adult Alternative",
+          "Rap"
+        ],
+        "trackNumber": 10,
+        "releaseDate": "2010-03-03",
+        "durationInMillis": 233867,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": false,
+        "isrc": "GBAYE1000010",
+        "artwork": {
+          "width": 1500,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/69/1f/7e691f10-3cc1-67ec-5dc3-df3d8df68fa7/5099962829359.jpg/{w}x{h}bb.jpg",
+          "height": 1500,
+          "textColor3": "d1d1d4",
+          "textColor2": "9ad6ea",
+          "textColor4": "81b1c4",
+          "textColor1": "ffffff",
+          "bgColor": "1c1d2d",
+          "hasP3": false
+        },
+        "composerName": "Damon Albarn",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "859844939",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/on-melancholy-hill/859841880?i=859844939",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "audioTraits": [
+          "lossless",
+          "lossy-stereo"
+        ],
+        "name": "On Melancholy Hill",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/79/9a/74/799a7439-ce86-59df-3ca2-13bc2a7ae408/mzaf_10839269380127053516.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gorillaz"
+      }
+    },
+    {
+      "id": "850571369",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Demon Days",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": [
+          "Alternative",
+          "Music",
+          "Pop",
+          "Hip-Hop/Rap",
+          "Alternative Rap",
+          "Rap",
+          "Rock",
+          "Adult Alternative",
+          "Underground Rap"
+        ],
+        "trackNumber": 5,
+        "releaseDate": "2005-05-11",
+        "durationInMillis": 223800,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBAYE1400421",
+        "artwork": {
+          "width": 1425,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/{w}x{h}bb.jpg",
+          "height": 1425,
+          "textColor3": "cbcfd2",
+          "textColor2": "cad69b",
+          "textColor4": "a1af82",
+          "textColor1": "fefeff",
+          "bgColor": "001621",
+          "hasP3": false
+        },
+        "composerName": "Brian Burton, Damon Albarn & Romye Robinson",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "850571369",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/dirty-harry/850571319?i=850571369",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": [
+          "lossless",
+          "lossy-stereo"
+        ],
+        "name": "Dirty Harry",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/29/44/53/2944538e-7e90-efe2-2f49-83aeb192fa71/mzaf_4780739406221462663.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gorillaz"
+      }
+    },
+    {
+      "id": "850569466",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Plastic Beach",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": [
+          "Alternative",
+          "Music",
+          "Hip-Hop/Rap",
+          "Alternative Rap",
+          "Rock",
+          "Adult Alternative",
+          "Underground Rap",
+          "Rap",
+          "Pop"
+        ],
+        "trackNumber": 4,
+        "releaseDate": "2010-03-03",
+        "durationInMillis": 200173,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBAYE1400435",
+        "artwork": {
+          "width": 1418,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/b8/f9/b9/b8f9b9f8-a609-bde2-0302-349436ffc508/825646291038.jpg/{w}x{h}bb.jpg",
+          "height": 1418,
+          "textColor3": "ccd6e1",
+          "textColor2": "b7ccd9",
+          "textColor4": "92aec3",
+          "textColor1": "ffffff",
+          "bgColor": "00366a",
+          "hasP3": false
+        },
+        "composerName": "Damon Albarn",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/rhinestone-eyes/850569437?i=850569466",
+        "playParams": {
+          "id": "850569466",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": [
+          "lossless",
+          "lossy-stereo"
+        ],
+        "name": "Rhinestone Eyes",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/10/69/1d/10691ddc-3431-cbe1-1d7f-905c929ac7c2/mzaf_7110813523466899580.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gorillaz"
+      }
+    },
+    {
+      "id": "1217912011",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Humanz (Deluxe)",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": [
+          "Alternative",
+          "Music"
+        ],
+        "trackNumber": 4,
+        "releaseDate": "2017-03-23",
+        "durationInMillis": 181907,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBAYE1700866",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ad/f6/74/adf6743c-1aa7-c254-a503-b4d343be2d03/190295824822.jpg/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "ccbf62",
+          "textColor2": "f6615c",
+          "textColor4": "c8514c",
+          "textColor1": "fbeb78",
+          "bgColor": "13120d",
+          "hasP3": false
+        },
+        "composerName": "ANDRE SUTHERLAND & Damon Albarn",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1217912011",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/saturnz-barz-feat-popcaan/1217911994?i=1217912011",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": [
+          "lossless",
+          "lossy-stereo"
+        ],
+        "name": "Saturnz Barz (feat. Popcaan)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/96/3e/9a/963e9a4c-0854-1baf-e163-d9380b2369a7/mzaf_6200251390312353119.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gorillaz"
+      }
+    },
+    {
+      "id": "1217912253",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Humanz (Deluxe)",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": [
+          "Alternative",
+          "Music"
+        ],
+        "trackNumber": 17,
+        "releaseDate": "2017-04-28",
+        "durationInMillis": 209560,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBAYE1700879",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ad/f6/74/adf6743c-1aa7-c254-a503-b4d343be2d03/190295824822.jpg/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "ccbf62",
+          "textColor2": "f6615c",
+          "textColor4": "c8514c",
+          "textColor1": "fbeb78",
+          "bgColor": "13120d",
+          "hasP3": false
+        },
+        "composerName": "Damon Albarn & Kali Uchis",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/shes-my-collar-feat-kali-uchis/1217911994?i=1217912253",
+        "playParams": {
+          "id": "1217912253",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": [
+          "lossless",
+          "lossy-stereo"
+        ],
+        "name": "She's My Collar (feat. Kali Uchis)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/90/29/47/902947bc-24e7-ca6d-1266-aa3c83198fcd/mzaf_18000574086564585337.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gorillaz"
+      }
+    },
+    {
+      "id": "1217912232",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Humanz (Deluxe)",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": [
+          "Alternative",
+          "Music"
+        ],
+        "trackNumber": 10,
+        "releaseDate": "2017-03-23",
+        "durationInMillis": 197547,
+        "isVocalAttenuationAllowed": true,
+        "isMasteredForItunes": true,
+        "isrc": "GBAYE1700872",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ad/f6/74/adf6743c-1aa7-c254-a503-b4d343be2d03/190295824822.jpg/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "ccbf62",
+          "textColor2": "f6615c",
+          "textColor4": "c8514c",
+          "textColor1": "fbeb78",
+          "bgColor": "13120d",
+          "hasP3": false
+        },
+        "composerName": "Damon Albarn & Shelley Massenburg-Smith",
+        "audioLocale": "en-US",
+        "playParams": {
+          "id": "1217912232",
+          "kind": "song"
+        },
+        "url": "https://music.apple.com/us/album/andromeda-feat-dram/1217911994?i=1217912232",
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": [
+          "lossless",
+          "lossy-stereo"
+        ],
+        "name": "Andromeda (feat. DRAM)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/4e/0d/404e0d9e-77e1-a722-caa7-cba84dbef841/mzaf_8732535623130673237.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gorillaz"
+      }
+    },
+    {
+      "id": "1217912009",
+      "type": "songs",
+      "attributes": {
+        "albumName": "Humanz (Deluxe)",
+        "hasTimeSyncedLyrics": true,
+        "genreNames": [
+          "Alternative",
+          "Music"
+        ],
+        "trackNumber": 2,
+        "releaseDate": "2017-03-23",
+        "durationInMillis": 155973,
+        "isVocalAttenuationAllowed": false,
+        "isMasteredForItunes": true,
+        "isrc": "GBAYE1700864",
+        "artwork": {
+          "width": 4000,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ad/f6/74/adf6743c-1aa7-c254-a503-b4d343be2d03/190295824822.jpg/{w}x{h}bb.jpg",
+          "height": 4000,
+          "textColor3": "ccbf62",
+          "textColor2": "f6615c",
+          "textColor4": "c8514c",
+          "textColor1": "fbeb78",
+          "bgColor": "13120d",
+          "hasP3": false
+        },
+        "composerName": "Anthony Khan, Damon Albarn & Vince Staples",
+        "audioLocale": "en-US",
+        "url": "https://music.apple.com/us/album/ascension-feat-vince-staples/1217911994?i=1217912009",
+        "playParams": {
+          "id": "1217912009",
+          "kind": "song"
+        },
+        "discNumber": 1,
+        "hasCredits": false,
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "audioTraits": [
+          "lossless",
+          "lossy-stereo"
+        ],
+        "name": "Ascension (feat. Vince Staples)",
+        "previews": [
+          {
+            "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/cf/c9/f7/cfc9f7e4-7ffb-fa07-ed2e-09db3d1bb9eb/mzaf_7525191766978965746.plus.aac.ep.m4a"
+          }
+        ],
+        "artistName": "Gorillaz",
+        "contentRating": "explicit"
+      }
+    }
+  ]
+}

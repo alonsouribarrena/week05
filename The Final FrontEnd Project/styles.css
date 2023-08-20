@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #f4f4f4 !important; 
+}
+
+.container{
+  width: 90%;
+  margin: auto;
+  text-align: center;
+
+}
+
+input{
+  width: 500px;
+  height: 40px;
+}
+
+#detailOutput{
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
